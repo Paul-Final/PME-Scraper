@@ -8,7 +8,7 @@ A scraper that collects information on upcoming music events in Prague and saves
 
 
 ## Technologies Used
-Python
+Python 3
 
 
 
